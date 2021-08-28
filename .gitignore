@@ -1,0 +1,12 @@
+.idea
+.prettierrc
+.vscode
+dist
+node_modules/
+package-lock.json
+.prettierrc
+
+cypress/screenshots/
+cypress/videos/
+coverage/
+__snapshots__
